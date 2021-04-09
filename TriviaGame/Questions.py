@@ -1,0 +1,13 @@
+Questions_ = [("The process of turning ideas into programs?", "ASoftware development", "WCompiling", "WCoding", "WDebugging"),
+("What is an algorithm?", "WA math formula", "WSomething that looks for a signal", "WPsuedo code of a program", "ASteps of how to complete a task"),
+("When was Java created?", "W1998", "W1996", "W1990", "A1991"),
+("What is a flowchart?", "WA Python IDE", "AA pictoral representation of code", "WA tool that interprets code", "WNote in code"),
+("When was PHP Invented?", "W1998", "A1994", "W2002", "W2003"),
+("Who created Python?", "WLex Fridman", "WLotta Kjellberg", "AGuido van Rossum", "WMarkus Alexej Persson"),
+("What are arguments?", "AInfo provided to a function", "WLanguage built-in variable", "WPackage that is imported", "WA decorator"),
+("What is HTML used for?", "WArtificial intelligence", "WGame development", "WSoftware creation", "AWeb development"),
+("Which number represents False?", "W1", "W1/5", "W5", "A0"),
+("What are syntax?", "WGuide for programming", "AGrammar rules of the langauge", "WProblems with code", "WCatch-all methods"),
+("Which langauge was creating by Apple?", "WPHP", "WPython", "ASwift", "WJavaScript"),
+("When was Python created?", "W1990", "W1989", "A1991", "W2003"),
+("What is the first step in SDLC?", "WCoding", "WDesign", "WAnalyzing the market", "APlanning")]
